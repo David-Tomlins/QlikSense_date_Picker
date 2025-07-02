@@ -1,0 +1,8 @@
+{
+  "name": "React Date Picker Extension",
+  "description": "Qlik Sense extension boilerplate using React with a date picker",
+  "version": "0.1.0",
+  "author": "Codex AI",
+  "type": "visualization",
+  "icon": "extension"
+}
